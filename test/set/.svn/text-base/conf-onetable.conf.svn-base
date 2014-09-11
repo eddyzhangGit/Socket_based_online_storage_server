@@ -1,0 +1,5 @@
+server_host localhost
+server_port 5702
+username admin
+password xxxnq.BMCifhU
+table table1 col11:int,col12:int,col13:char[50]
